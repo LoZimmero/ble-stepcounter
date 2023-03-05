@@ -1,0 +1,8 @@
+D:/Projects/Pedometer/MEMS/App/app_mems.c:58:6:MX_MEMS_Init	8	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:80:6:MX_MEMS_Process	8	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:97:6:MX_LSM6DSO_Pedometer_Init	8	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:128:6:BSP_PB_Callback	16	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:137:6:MX_LSM6DSO_Pedometer_Process	16	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:197:17:user_currentTimeGetTick	8	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:207:17:user_currentTimeGetElapsedMS	24	static
+D:/Projects/Pedometer/MEMS/App/app_mems.c:221:13:Send_Step_Count	8	static
